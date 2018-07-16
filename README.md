@@ -5,13 +5,13 @@ This repository was made to collect all the resource about crash bandicoot file 
 
 ## Crash Bandicoot N Sane Trilogy (CB NST)
 
-CBNST is composed by **file.pak** that are archives, can we open/edit it? Yes! We can use NeoKesha's tool, PAK Explorer[NeoKesha's tool, PAK Explorer](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?f=2&t=6075) , it allows to extract the content, modify the position of the file, repack and create new patch.
+CBNST is composed by **file.pak** that are archives, can we open/edit it? Yes! We can use NeoKesha's tool, [NeoKesha's tool, PAK Explorer](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?f=2&t=6075) , it allows to extract the content, modify the position of the file, repack and create new patch.
 
 Little example [here](https://www.youtube.com/watch?v=ArDcqoyF7iA), this video show how to swap the models and repack, indeed, at the end of the video we can see a scene of Crash Bandicoot where the 3D models (**file.igz**) of the evil characters are swapped with the bandicoot characters.
 
 NST PAK Explorer allows to extract the file but one by one, to extract automatically all the archive we can use the [Aluigi's tool Quickbms](http://aluigi.altervista.org/quickbms.htm) Aluigi's tool Quickbms and the related script compatible with CBNST.
 
-**Problem**: we still can't open the .igz files, here[here](https://www.vg-resource.com/thread-32408-page-4.html)  there are some users that are working on it, they will give updates on that thread.
+**Problem**: we still can't open the .igz files, [here](https://www.vg-resource.com/thread-32408-page-4.html)  there are some users that are working on it, they will give updates on that thread.
 I found on github a tool that can convert file .igz into .pvr file but I don't know really if it works properly.
 
 [Crash-Bandicoot-NSAMETRIOLOGY-Tool](https://github.com/pashok6798/Crash-Bandicoot-NSAMETRIOLOGY-Tool) (author: Pashok6798)
