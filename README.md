@@ -34,12 +34,19 @@ I compiled on Linux with xbuild/mono and I tried it, but I didn't know how to op
 
 ## Crash Bandicoot Trilogy (PS1)
 
-The Crash Bandicoot Trilogy games are composed by *.NSD, *.NSF file, we can open these file with the tool **CrashEdit** or **drnsf**, the former allows to open the nsf/nsd file, play/export the sound, see the texture etc. the latter, allows to open the nsd/nsf file and view the 3D models.
+The Crash Bandicoot Trilogy games are composed by ***.NSD, *.NSF** file how to get them?
+If you have the **Game.cdz** you can convert it to Game.bin with psxfin or cdztool (PSX tool included in the emulator) and then to Game.iso with ccd2iso if you use Linux/Mac or with [these tools](https://helpdeskgeek.com/free-tools-review/how-to-convert-bin-to-iso/) if you use Windows.
+When you have the iso file you can easily extract it and get the NSD/NSF files.
+
+When you have the NSD/NSF files you can open them with the tool **CrashEdit** or **drnsf**, the former allows to edit, play/export the sound file, the texture etc. the latter, allows to open the nsd/nsf file and view the 3D models.
 **Drnsf** don't export the 3D models, while the last version of CrashEdit should allows to export the scenery 3d model.
 
 Another tool that export the 3D models is **[Crash-Bandicoot-2-Modelexport](https://github.com/warenhuis/Crash-Bandicoot-2-Modelexport)** but it depends on CrashEdit as you can see in [this video](https://www.youtube.com/watch?v=g7ByLSotvNo).
 
+A simple tool (for developers mainly) that only "load" the nsf file in memory and start to work on them could be [crash-bandicoot-nsf](https://github.com/dehodson/crash-bandicoot-nsf), is a simple python script to read the nsf file, you can use it to study how this kind of programs works and maybe write a new one.
+
 ### Tools summary
+- **psxfin**, **cdztool**, **ccd2iso**
 - **CrashEdit** [download](https://github.com/ManDude/CrashEdit/tree/newgui)
 - **Crash-Bandicoot-2-Modelexport** [download](https://github.com/warenhuis/Crash-Bandicoot-2-Modelexport) [reference](https://www.youtube.com/watch?v=g7ByLSotvNo)
 - **drnsf** [download](https://github.com/cbhacks/drnsf) 
