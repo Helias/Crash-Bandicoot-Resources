@@ -56,3 +56,4 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 ---
 ### Other
 - **Crash 2 engine in C** [download](https://github.com/ughman/c2c)
+- **Crash 1 engine in C** [download](https://github.com/wurlyfox/c1c)
