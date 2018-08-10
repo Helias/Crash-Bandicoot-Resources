@@ -14,15 +14,12 @@ NST PAK Explorer allows to extract the file but one by one, to extract automatic
 **Problem**: we still can't open the .igz files, [here](https://www.vg-resource.com/thread-32408-page-4.html)  there are some users that are working on it, they will give updates on that thread.
 I found on github a tool that can convert file .igz into .pvr file but I don't know really if it works properly.
 
-[Crash-Bandicoot-NSAMETRIOLOGY-Tool](https://github.com/pashok6798/Crash-Bandicoot-NSAMETRIOLOGY-Tool) (author: Pashok6798)
-I compiled on Linux with xbuild/mono and I tried it, but I didn't know how to open .pvr file so I can't test it.
-
-
 ### Tools summary CBNST
 
-- **NST PAK Explorer** [download](https://yadi.sk/d/0Ytfg3ca3YjtTN) [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?f=2&t=6075)
+- **NST PAK Explorer** [download](https://yadi.sk/d/0Ytfg3ca3YjtTN) [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?f=2&t=6075) [video](https://www.youtube.com/watch?v=ArDcqoyF7iA)
 - **Quickbms** [download](http://aluigi.altervista.org/quickbms.htm)
 - **Quickbms script** [download](http://aluigi.altervista.org/bms/marvel_ultimate_alliance_2.bms) [reference](http://zenhax.com/viewtopic.php?t=7794)
+- **IGZ Editor** [download](https://yadi.sk/d/6ofo5uq_3YpLV6) [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?f=2&t=6076) [video](https://www.youtube.com/watch?v=1eiHJmjZrks)
 - **Crash-Bandicoot-NSAMETRIOLOGY-Tool** [download](https://github.com/pashok6798/Crash-Bandicoot-NSAMETRIOLOGY-Tool)
 
 
