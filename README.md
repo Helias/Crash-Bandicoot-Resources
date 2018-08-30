@@ -25,7 +25,14 @@ I found on github a tool that can convert file .igz into .pvr file but I don't k
 
 **For Linux users?** These tools are compatible with Windows, but they work pretty good with wine/mono, about quickbms it works, but there is also the source code available.
 
+[PAK & IGZ file format structure](https://thewarproom.com/showthread.php?tid=8)
+
  
+---
+
+## Crash Twinsanity
+NeoKesha's **Crash Twinsanity Editor** [github](https://github.com/Smartkin/twinsanity-editor), [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?t=2), [youtube](https://www.youtube.com/watch?v=eBE51p8zAlU)
+
 ---
 
 
