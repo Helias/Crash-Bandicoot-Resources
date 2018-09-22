@@ -14,14 +14,15 @@ NST PAK Explorer allows to extract the file but one by one, to extract automatic
 **Problem**: we still can't open the .igz files, [here](https://www.vg-resource.com/thread-32408-page-4.html)  there are some users that are working on it, they will give updates on that thread.
 I found on github a tool that can convert file .igz into .pvr file but I don't know really if it works properly.
 
-### Tools summary CBNST
+### Tools CBNST
 
 - **NST PAK Explorer** [download](https://yadi.sk/d/0Ytfg3ca3YjtTN) [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?f=2&t=6075) [video](https://www.youtube.com/watch?v=ArDcqoyF7iA)
 - **Quickbms** [download](http://aluigi.altervista.org/quickbms.htm)
 - **Quickbms script** [download](http://aluigi.altervista.org/bms/marvel_ultimate_alliance_2.bms) [reference](http://zenhax.com/viewtopic.php?t=7794)
 - **IGZ Editor** [download](https://yadi.sk/d/6ofo5uq_3YpLV6) [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?f=2&t=6076) [video](https://www.youtube.com/watch?v=1eiHJmjZrks)
 - **Crash-Bandicoot-NSAMETRIOLOGY-Tool** [download](https://github.com/pashok6798/Crash-Bandicoot-NSAMETRIOLOGY-Tool)
-
+-  **ARD's Texture Converter** [reference & download](https://thewarproom.com/showthread.php?tid=27)
+- **ARD's Level Editor prototype** [reference](https://thewarproom.com/showthread.php?tid=32)
 
 **For Linux users?** These tools are compatible with Windows, but they work pretty good with wine/mono, about quickbms it works, but there is also the source code available.
 
@@ -49,7 +50,7 @@ Another tool that export the 3D models is **[Crash-Bandicoot-2-Modelexport](http
 
 A simple tool (for developers mainly) that only "load" the nsf file in memory and start to work on them could be [crash-bandicoot-nsf](https://github.com/dehodson/crash-bandicoot-nsf), is a simple python script to read the nsf file, you can use it to study how this kind of programs works and maybe write a new one.
 
-### Tools summary
+### Tools
 - **psxfin**, **cdztool**, **ccd2iso**
 - **CrashEdit** [download](https://github.com/ManDude/CrashEdit/tree/newgui)
 - **Crash-Bandicoot-2-Modelexport** [download](https://github.com/warenhuis/Crash-Bandicoot-2-Modelexport) [reference](https://www.youtube.com/watch?v=g7ByLSotvNo)
