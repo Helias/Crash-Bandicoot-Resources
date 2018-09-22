@@ -28,6 +28,10 @@ I found on github a tool that can convert file .igz into .pvr file but I don't k
 
 [PAK & IGZ file format structure](https://thewarproom.com/showthread.php?tid=8)
 
+## Interesting projects about CBNST
+- **ReBandicoot**, this project is attempting to reverse engineer the CBNST game [github](https://github.com/2010kohtep/ReBandicoot)
+- **Insan3Mod** modtools for CBNST [github](https://github.com/dtzxporter/Insan3Mod)
+
  
 ---
 
