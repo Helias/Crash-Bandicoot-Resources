@@ -28,14 +28,28 @@ I found on github a tool that can convert file .igz into .pvr file but I don't k
 
 [PAK & IGZ file format structure](https://thewarproom.com/showthread.php?tid=8)
 
-## Interesting projects about CBNST
+### CBNST Mods Released
+**Level Mod by ARD** [guide & download](https://thewarproom.com/showthread.php?tid=21)
+**Crash Classic Soundtrack** [guide & download](https://cogmonkey.com/CrashNSTOST/)
+
+### Character Mods
+- **Skeleton Crash** [download](https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/1) 
+- **Low-poly Crash** [download](https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/2)
+- **Fake Crash** [download](https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/3)
+- **Biker Crash** [download](https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/6)
+- **Jetpack Crash** [download](https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/7)
+- **Pilot Crash** [download](https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/8)
+- **Scuba Crash** [download](https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/9)
+- **Boxers Crash** [download](https://www.nexusmods.com/crashbandicootnsanetrilogy/mods/10)
+
+### Interesting projects about CBNST
 - **ReBandicoot**, this project is attempting to reverse engineer the CBNST game [github](https://github.com/2010kohtep/ReBandicoot)
 - **Insan3Mod** modtools for CBNST [github](https://github.com/dtzxporter/Insan3Mod)
 
  
 ---
 
-## Crash Twinsanity
+### Crash Twinsanity
 NeoKesha's **Crash Twinsanity Editor** [github](https://github.com/Smartkin/twinsanity-editor), [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?t=2), [youtube](https://www.youtube.com/watch?v=eBE51p8zAlU)
 
 ---
