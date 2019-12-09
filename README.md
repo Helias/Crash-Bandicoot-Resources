@@ -72,7 +72,7 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 
 ### Tools
 - **psxfin**, **cdztool**, **ccd2iso**
-- **CrashEdit** [download](https://github.com/ManDude/CrashEdit/tree/newgui)
+- **CrashEdit** [download](https://github.com/ManDude/CrashEdit/) (deprecated, use drnsf)
 - **Crash-Bandicoot-2-Modelexport** [download](https://github.com/warenhuis/Crash-Bandicoot-2-Modelexport) [reference](https://www.youtube.com/watch?v=g7ByLSotvNo)
 - **drnsf** [download](https://github.com/cbhacks/drnsf) 
 - **crash-bandicoot-nsf** [download](https://github.com/dehodson/crash-bandicoot-nsf) 
