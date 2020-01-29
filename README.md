@@ -81,3 +81,4 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 ### Other
 - **Crash 2 engine in C** [download](https://github.com/ughman/c2c)
 - **Crash 1 engine in C** [download](https://github.com/wurlyfox/c1c)
+- **Tools for Crash Bandicoot Mutant Island 2008 Java game** [download](https://github.com/bartlomiejduda/Tools/tree/master/NEW%20Tools/Crash%20Bandicoot%20Mutant%20Island%202008)
