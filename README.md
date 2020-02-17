@@ -70,6 +70,10 @@ Another tool that export the 3D models is **[Crash-Bandicoot-2-Modelexport](http
 
 A simple tool (for developers mainly) that only "load" the nsf file in memory and start to work on them could be [crash-bandicoot-nsf](https://github.com/dehodson/crash-bandicoot-nsf), is a simple python script to read the nsf file, you can use it to study how this kind of programs works and maybe write a new one.
 
+### Wiki & website
+[cbhacks](https://www.cbhacks.com/)  
+[cbhacks wiki](https://wiki.cbhacks.com/w/Main_Page)  
+
 ### Tools
 - **psxfin**, **cdztool**, **ccd2iso**
 - **CrashEdit** [download](https://github.com/ManDude/CrashEdit/) (deprecated, use drnsf)
