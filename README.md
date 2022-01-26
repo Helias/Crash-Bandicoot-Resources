@@ -80,9 +80,12 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 - **Crash-Bandicoot-2-Modelexport** [download](https://github.com/warenhuis/Crash-Bandicoot-2-Modelexport) [reference](https://www.youtube.com/watch?v=g7ByLSotvNo)
 - **drnsf** [download](https://github.com/cbhacks/drnsf) 
 - **crash-bandicoot-nsf** [download](https://github.com/dehodson/crash-bandicoot-nsf) 
+- **goocdump** [download](https://github.com/ManDude/goocdump), GOOL -> GOOC converter. 
 
 ---
 ### Other
 - **Crash 2 engine in C** [download](https://github.com/ughman/c2c)
 - **Crash 1 engine in C** [download](https://github.com/wurlyfox/c1c)
 - **Tools for Crash Bandicoot Mutant Island 2008 Java game** [download](https://github.com/bartlomiejduda/Tools/tree/master/NEW%20Tools/Crash%20Bandicoot%20Mutant%20Island%202008)
+- **crash-bandicoot-godot** [download](https://github.com/nonunknown/crash-bandicoot-godot) 
+- **OpenCrashWOC** [download](https://github.com/Open-Travelers/OpenCrashWOC) 
