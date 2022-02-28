@@ -96,3 +96,4 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 - **Tools for Crash Bandicoot Mutant Island 2008 Java game** [download](https://github.com/bartlomiejduda/Tools/tree/master/NEW%20Tools/Crash%20Bandicoot%20Mutant%20Island%202008)
 - **crash-bandicoot-godot** [download](https://github.com/nonunknown/crash-bandicoot-godot) 
 - **OpenCrashWOC** [download](https://github.com/Open-Travelers/OpenCrashWOC) 
+- **Ray1Map** to check the maps of Vicarious Visions Crash GBA games, try [live demo here](https://raym.app/maps_r1).
