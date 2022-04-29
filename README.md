@@ -77,6 +77,15 @@ Another tool that export the 3D models is **[Crash-Bandicoot-2-Modelexport](http
 
 A simple tool (for developers mainly) that only "load" the nsf file in memory and start to work on them could be [crash-bandicoot-nsf](https://github.com/dehodson/crash-bandicoot-nsf), is a simple python script to read the nsf file, you can use it to study how this kind of programs works and maybe write a new one.
 
+## Crash Bandicoot & AI
+
+Crash Bash AI for "Crashball level" winrate 100% using Reinforcement Learning.
+source: https://mobile.twitter.com/theredhotbr/status/1272643329327542277
+video: https://clips.twitch.tv/InnocentFineAardvarkTheThing
+
+GitHub repository: https://github.com/mateusfavarin/RillAi
+
+
 ### Wiki & website
 [cbhacks](https://www.cbhacks.com/)  
 [cbhacks wiki](https://wiki.cbhacks.com/w/Main_Page)  
@@ -97,3 +106,4 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 - **crash-bandicoot-godot** [download](https://github.com/nonunknown/crash-bandicoot-godot) 
 - **OpenCrashWOC** [download](https://github.com/Open-Travelers/OpenCrashWOC) 
 - **Ray1Map** to check the maps of Vicarious Visions Crash GBA games, try [live demo here](https://raym.app/maps_r1).
+ 
