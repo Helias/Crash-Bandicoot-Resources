@@ -79,9 +79,9 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 
 ## Crash Bandicoot & AI
 
-Crash Bash AI for "Crashball level" winrate 100% using Reinforcement Learning.
-source: https://mobile.twitter.com/theredhotbr/status/1272643329327542277
-video: https://clips.twitch.tv/InnocentFineAardvarkTheThing
+Crash Bash AI for "Crashball level" winrate 100% using Reinforcement Learning.  
+source: https://mobile.twitter.com/theredhotbr/status/1272643329327542277.  
+video: https://clips.twitch.tv/InnocentFineAardvarkTheThing.  
 
 GitHub repository: https://github.com/mateusfavarin/RillAi
 
