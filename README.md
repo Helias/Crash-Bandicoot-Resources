@@ -47,7 +47,7 @@ I found on github a tool that can convert file .igz into .pvr file but I don't k
 ### Interesting projects about CBNST
 - **ReBandicoot**, this project is attempting to reverse engineer the CBNST game [github](https://github.com/2010kohtep/ReBandicoot)
 - **Insan3Mod** modtools for CBNST [github](https://github.com/dtzxporter/Insan3Mod)
-
+- **CrashBandicootGodot**: Crash bandicoot mechanics in godot [github](https://github.com/nonunknown/crash-bandicoot-godot)
  
 ---
 
