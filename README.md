@@ -1,6 +1,6 @@
 # Crash Bandicoot Resources
 
-This repository was made to collect all the resource about crash bandicoot file format and related reverse engineer studies and tools, feel free to contribute with fork + pull request.
+This repository was made to collect all the resource about crash bandicoot file format, related reverse engineer studies and tools, feel free to contribute with fork + pull request.
 
 
 ## Crash Bandicoot N Sane Trilogy (CB NST)
