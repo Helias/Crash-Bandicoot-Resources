@@ -63,6 +63,14 @@ This organization includes some tools to edits/explore the CTR levels and also t
 
 ---
 
+### Crash Bash  
+
+[CrashBashEx](https://github.com/xan1242/CrashBashEx) can extract some Crash Bash data from the CRASHBASH.DAT file.  
+The previous tool [CTR-tools](https://github.com/CTR-tools) can do the same but partially.  
+Another tool related to Crash Bash is in the section below `Crash Bandicoot & AI`.  
+
+---
+
 
 ## Crash Bandicoot Trilogy (PS1)
 
