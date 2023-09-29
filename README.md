@@ -65,11 +65,12 @@ This organization includes some tools to edits/explore the CTR levels and also t
 
 ### Crash Bash  
 
- it's able to extract all files from multiple crash bash versions
-
-The previous tool [CTR-tools](https://github.com/CTR-tools) is able to extract all files (textures, music etc.) from multiple crash bash versions.  
+The tool [CTR-tools](https://github.com/CTR-tools) is able to extract all files (textures, music etc.) from multiple crash bash versions.  
 [CrashBashEx](https://github.com/xan1242/CrashBashEx) can extract some Crash Bash music data from the CRASHBASH.DAT file.  
 Another tool related to Crash Bash is in the section below `Crash Bandicoot & AI`.  
+
+[Arbitrary Code Execution (ACE) in Crash Bash NTSC-J ](https://github.com/lazycurler/CrashBashResearchACE) -> speed run the game using some specific inputt cheat that changes the crash bash memory.
+Better explanation and related video is available [here](https://github.com/lazycurler/CrashBashResearchACE#links).
 
 ---
 
