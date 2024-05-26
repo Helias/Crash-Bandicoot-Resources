@@ -52,8 +52,11 @@ I found on github a tool that can convert file .igz into .pvr file but I don't k
 ---
 
 ### Crash Twinsanity
-NeoKesha's **Crash Twinsanity Editor** [github](https://github.com/Smartkin/twinsanity-editor), [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?t=2), [youtube](https://www.youtube.com/watch?v=eBE51p8zAlU)
-OpenSanity: decompile Crash Twinsanity [github](https://github.com/NeoKesha/OpenSanity)
+- NeoKesha's **Crash Twinsanity Editor** [github](https://github.com/Smartkin/twinsanity-editor), [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?t=2), [youtube](https://www.youtube.com/watch?v=eBE51p8zAlU)
+- OpenSanity: decompile Crash Twinsanity [github](https://github.com/NeoKesha/OpenSanity)
+- Twinsanity script reader [github](https://github.com/Smartkin/twinsanity-script-reader)
+- Twinsanity-reversed: old project about crash twinsanity decopmilation [github](https://github.com/Smartkin/twinsanity-reversed)
+
 ---
 
 ### Crash Team Racing
