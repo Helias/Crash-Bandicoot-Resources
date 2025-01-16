@@ -24,7 +24,7 @@ I found on github a tool that can convert file .igz into .pvr file but I don't k
 -  **ARD's Texture Converter** [reference & download](https://thewarproom.com/showthread.php?tid=27)
 - **ARD's Level Editor prototype** [reference](https://thewarproom.com/showthread.php?tid=32)
 - **ARD'S Level Selector** [reference](https://thewarproom.com/showthread.php?tid=44) [download](https://www.mediafire.com/file/m1ff4b313nakax0/NSTLevelSelector.exe)
-- ~IGZ Model Converter~ deprecated for igModelConverter [github](https://github.com/AdventureT/igModelConverter)
+- ~IGZ Model Converter~ deprecated for igModelConverter [github](https://github.com/AdventureT/igModelConverter), related QT GUI project [github](https://github.com/AdventureT/IgzModelConverterQT)
 
 **For Linux users?** These tools are compatible with Windows, but they work pretty good with wine/mono, about quickbms it works, but there is also the source code available.
 
