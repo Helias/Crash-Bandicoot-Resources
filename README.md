@@ -16,6 +16,7 @@ I found on github a tool that can convert file .igz into .pvr file but I don't k
 
 ### Tools CBNST
 
+- **NST level editor** [github](https://github.com/kishimisu/Crash-NST-Level-Editor/tree/main)
 - **NST PAK Explorer** [github](https://github.com/NeoKesha/NST_Explorer) [download](https://yadi.sk/d/0Ytfg3ca3YjtTN) [reference](http://twinsanity-hacking.tigersoftware.ru/viewtopic.php?f=2&t=6075) [video](https://www.youtube.com/watch?v=ArDcqoyF7iA)
 - **Quickbms** [download](http://aluigi.altervista.org/quickbms.htm)
 - **Quickbms script** [download](http://aluigi.altervista.org/bms/marvel_ultimate_alliance_2.bms) [reference](http://zenhax.com/viewtopic.php?t=7794)
