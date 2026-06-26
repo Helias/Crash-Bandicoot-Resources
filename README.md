@@ -77,6 +77,8 @@ Another tool related to Crash Bash is in the section below `Crash Bandicoot & AI
 [Arbitrary Code Execution (ACE) in Crash Bash NTSC-J ](https://github.com/lazycurler/CrashBashResearchACE) -> speed run the game using some specific inputt cheat that changes the crash bash memory.
 Better explanation and related video is available [here](https://github.com/lazycurler/CrashBashResearchACE#links).
 
+**Crash Bash engine**, a reverse engineering project that aims to decompile Crash Bash PSX, [github](https://github.com/mateusfavarin/crashbash).
+
 ---
 
 
