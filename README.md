@@ -122,6 +122,7 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 - **drnsf** [download](https://github.com/cbhacks/drnsf) 
 - **crash-bandicoot-nsf** [download](https://github.com/dehodson/crash-bandicoot-nsf) 
 - **goocdump** [download](https://github.com/ManDude/goocdump), GOOL -> GOOC converter. 
+- **Crash Bandicoot Launcher** [github](https://github.com/Matteo842/CrashBandicoot-Launcher) pc native port about crash PS1 games
 
 ---
 ### Other
