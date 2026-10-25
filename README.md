@@ -128,11 +128,13 @@ A simple tool (for developers mainly) that only "load" the nsf file in memory an
 
 ---
 ### Other
-- **Crash Bandicoot: The Wrath of Cortex  engine in C** [github page](https://github.com/calmsacibis995/crash-ps2)
+- ~**[OpenCrashWOC](https://github.com/Open-Travelers/OpenCrashWOC)**~, now moved to:
+- - [Gamecube decopm](https://github.com/denzi-gh/crashwoc-decomp-gc) [progress](https://decomp.dev/denzi-gh/crashwoc-decomp-gc)
+- - [PS2 decomp](https://github.com/denzi-gh/crashwoc-decomp-ps2) [progress](https://decomp.dev/denzi-gh/crashwoc-decomp-ps2)
+- ~**Crash Bandicoot: The Wrath of Cortex  engine in C** [github page](https://github.com/calmsacibis995/crash-ps2)~ unmantained, check the previous one
 - **Crash Bandicoot 2 engine in C** [github page](https://github.com/ughman/c2c)
 - **Crash Bandicoot 1 engine in C** [github page](https://github.com/wurlyfox/c1)
 - **Tools for Crash Bandicoot Mutant Island 2008 Java game** [download](https://github.com/bartlomiejduda/Tools/tree/master/NEW%20Tools/Crash%20Bandicoot%20Mutant%20Island%202008)
 - **crash-bandicoot-godot** [download](https://github.com/nonunknown/crash-bandicoot-godot) 
-- **OpenCrashWOC** [download](https://github.com/Open-Travelers/OpenCrashWOC) 
 - **Ray1Map** to check the maps of Vicarious Visions Crash GBA games, try [live demo here](https://raym.app/maps_r1).
  
